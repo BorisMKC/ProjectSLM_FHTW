@@ -10,12 +10,9 @@ Willkommen zu TicTacToe! Dieses Respository enthält unser SLM-Projekt des 3ten 
 
 ## User Stories
 - As a player, I value accurate game outcome detection. I want the game to reliably identify and communicate when a win, loss, or draw condition occurs. This provides a clear and definitive resolution to each game session.
-- As a player, I want the game to maintain an ongoing record of the overall score, providing a cumulative view of my performance across multiple games. This feature adds a competitive element and allows for tracking progress over time.
-- As a player, I appreciate the availability of a computer opponent, allowing me to practice and refine my strategy even when no other player is available. This feature enhances the versatility of gameplay options.
 - As a player, I find motivation in receiving tailored messages based on game outcomes. A congratulatory message upon winning, an encouraging message in case of a draw, and supportive words to try again after a loss contribute to a positive player experience.
 - As a player, I want to receive immediate notifications when the game reaches its conclusion. This notification is essential for timely feedback on the game's outcome and to potentially offer a rematch.
 - As a player, I wish to have the option to initiate a new game once the current one has concluded. This feature enables me to seamlessly transition into a new round, without the need to leave the game interface, ensuring a continuous flow of gameplay and enjoyment.
-- As a player, I value the option to engage in a two-player mode on the same device, facilitating in-person matches with friends. This social aspect of gameplay adds an interactive dimension to the experience.
 - As a player, I want to have the option to choose my preferred symbol, either "X" or "O", at the beginning of the game. This allows me to personalize my gameplay experience and align with my strategic preferences.
 - As a player, I desire a well-structured and clear representation of the game board, allowing me to easily track the moves made by both myself and my opponent. This visual overview is pivotal for planning my tactical approach and game strategy.
 - As a player, I want the ability to select an empty square on the game board in order to place my symbol. This functionality is crucial for active participation and executing my strategic moves in the game of TicTacToe.
