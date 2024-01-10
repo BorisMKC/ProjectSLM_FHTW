@@ -1,6 +1,6 @@
-# Java Game: TicTacToe
+# Java Game: Tic-Tac-Toe
 
-Willkommen zu TicTacToe! Dieses Respository enthält unser SLM-Projekt des 3ten Semesters für die FH Technikum Wien.
+Willkommen zu Tic-Tac-Toe! Dieses Repository enthält unser SLM-Projekt des 3. Semesters für die FH Technikum Wien. Enjoy! :D
 
 ## Team
 
