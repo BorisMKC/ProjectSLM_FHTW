@@ -1,0 +1,67 @@
+Sehr geehrter Herr Kosmider!
+
+Falls Sie auf diese Datei klicken sollten: Schön Sie dabei zu haben!
+
+In diesem Sinne: Viel Spaß beim Lesen! :D
+
+------------------------
+Anbei nochmal alle grundlegenden Informationen zu unserer Gruppe:
+
+Gruppenname: Galactic Games
+
+Gruppenmitglieder: 
+
+- Lazar Zivkovic
+- Boris Maksimovic
+- Mihajlo Djordjevic
+
+Alle User Stories & Aufgaben sind in der README.md-Datei aufzufinden.
+
+Alles weitere liegt in unserem Repository. 
+-------------------------
+
+Nun zur Dokumentation: 
+
+Zuallererst wurde damals im Unterricht zusammen mit ihnen das Git-Repository erstellt. 
+(Initial commit)
+
+Anschließend wurden alle erstellten User Stories & Aufgaben als README.md-Datei hochgeladen. 
+Ein Kanban-Board kam auch hinzu. Dieses wurde fortlaufend beim Programmieren bearbeitet.
+
+Der berühmte Klassiker, die .gitignore Datei, schloss sich ebenfalls der Gruppe an. 
+
+In der Zwischenzeit begann das Programmieren. (loading Tic-Tac-Toe...)
+
+Nachdem alle User-Stories (mit einigen kleinen Anpassungen) erfolgreich alle Phasen des Kanban-Boards durchlaufen hatten, wurden Screenshots vom Workflow gemacht & alle relevanten Dateien aus dem Feature-Branch mit dem Main-Branch gemerged. 
+(Pull-Request)
+
+Dann wurden alle notwendigen Klassen hinzugefügt (Maven-Datei, pom.xml, etc.). 
+Wir haben die Maven-Version 5.8.0 verwendet. Der dafür benötigte Konfigurationslink wurde von der folgenden Adresse entnommen: 
+
+->	https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.0 
+
+Zu diesem Zeitpunkt hatten wir den Code für das Tic-Tac-Toe-Spiel fertiggestellt. 
+
+Die Implementierung dessen auf Github wickelte sich in folgenden Schritten ab: 
+
+- Zunächst wurden alle Unit-Tests commited. 
+- Nachher folgte die main. 
+- Letztendlich kam die jarFile-Datei hinzu. 
+
+Zu guter Letzt wurde dieses Dokument dem Repository hinzugefügt.
+
+Leider ist dies auch schon das Ende unserer Dokumentation. 
+Wir hoffen, dass Ihnen die Show gefallen hat. 
+
+Danke für alles! Alles Gute!
+
+The Galactic Games ;D
+
+
+
+
+
+
+
+
+
