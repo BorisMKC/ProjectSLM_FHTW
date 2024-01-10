@@ -22,13 +22,13 @@ Willkommen zu Tic-Tac-Toe! Dieses Repository enthält unser SLM-Projekt des 3. S
 - GitHub-Projekt erstellen und mit dem Repository verknüpfen.
 - User Stories auf ein neues Kanban-Board im Projekt übertragen.
 - Jeder User Story eine eindeutige ID geben.
-- Ein neues Java Maven-Projekt erstellen.
+- Ein neues Java-Maven-Projekt erstellen.
 - Ein neues Git-Repository initialisieren.
 - Das GitHub-Repository als Remote-Repository einrichten.
 - Das leere Java-Projekt in den Hauptzweig committen und pushen.
 - Den Hauptzweig schützen (nur Pull Requests zulassen).
 - Mit den User Stories beginnen.
-- Für jede User Story einen neuen Feature-Branch erstellen und korrekt benennen.
+- Für jede User-Story einen neuen Feature-Branch erstellen und korrekt benennen.
 - Den Branch nach Abschluss über Pull Request zusammenführen.
 - CI/CD soll den Code vor dem Merging testen.
 - Die User Stories immer auf dem Kanban-Board weiterbewegen.
