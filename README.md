@@ -15,7 +15,7 @@ Willkommen zu Tic-Tac-Toe! Dieses Repository enthält unser SLM-Projekt des 3. S
 - As a player, I wish to have the option to initiate a new game once the current one has concluded. This feature enables me to seamlessly transition into a new round, without the need to leave the game interface, ensuring a continuous flow of gameplay and enjoyment.
 - As a player, I want to have the option to choose my preferred symbol, either "X" or "O", at the beginning of the game. This allows me to personalize my gameplay experience and align with my strategic preferences.
 - As a player, I desire a well-structured and clear representation of the game board, allowing me to easily track the moves made by both myself and my opponent. This visual overview is pivotal for planning my tactical approach and game strategy.
-- As a player, I want the ability to select an empty square on the game board in order to place my symbol. This functionality is crucial for active participation and executing my strategic moves in the game of TicTacToe.
+- As a player, I want the ability to select an empty square on the game board in order to place my symbol. This functionality is crucial for active participation and executing my strategic moves in the game of Tic-tac-toe.
 
 ## Aufgaben
 - GitHub-Repository (öffentlich) erstellen.
