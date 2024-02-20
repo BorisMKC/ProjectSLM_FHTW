@@ -27,6 +27,6 @@ public class Player {
     public char getMarker() {
         return this.marker;
     }
-    
+
 }
 
