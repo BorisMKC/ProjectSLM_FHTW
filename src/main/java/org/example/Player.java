@@ -5,11 +5,13 @@ package org.example;
  * Each player has a unique marker (X or O) that they use to claim cells on the board.
  */
 public class Player {
-
+    
     /**
      * The marker that represents the player on the Tic Tac Toe board.
      */
     public char marker;
+
+    
 
     /**
      * Creates a new player with the given marker.
