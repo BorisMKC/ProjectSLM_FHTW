@@ -10,9 +10,6 @@ public class Player {
      * The marker that represents the player on the Tic Tac Toe board.
      */
     public char marker;
-
-    
-
     /**
      * Creates a new player with the given marker.
      *
@@ -30,5 +27,6 @@ public class Player {
     public char getMarker() {
         return this.marker;
     }
+    
 }
 
