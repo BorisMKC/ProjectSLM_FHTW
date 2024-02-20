@@ -6,6 +6,7 @@ package org.example;
  */
 public class Player {
 
+
     /**
      * The marker that represents the player on the Tic Tac Toe board.
      */
