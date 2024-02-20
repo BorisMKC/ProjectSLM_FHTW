@@ -1,3 +1,6 @@
+import org.example.Board;
+import org.example.TicTacToe;
+
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
